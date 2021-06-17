@@ -7,8 +7,8 @@ public class class2 {
     System.out.println("hello arun");
     System.out.println("this is shalu");
 		System.out.println("this is shalu");
-		System.out.println("this is shalu");
-		
+		System.out.println("this is amala");
+		System.out.println("hi this is kasandra lancia");
 	}
 
 }
