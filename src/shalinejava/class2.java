@@ -13,7 +13,7 @@ public class class2 {
 		
 		
 		
-		System.out.println("hello");
+		System.out.println("hello world");
 	}
 
 }
